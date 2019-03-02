@@ -32,4 +32,5 @@ for pozycja, uczen in enumerate(dziennik):
 #     print(pozycja, “: “, uczen)
     if uczen == uczestnik:
         print('Piotr', pozycja)
-    
+    # pokazuje Piotr pozycja 0 Piotr pozycja 5
+
